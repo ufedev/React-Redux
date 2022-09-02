@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 12,
+      "nombre": "B560 Asr",
+      "precio": 190
+    },
+    {
+      "id": 14,
+      "nombre": "RX 6700xt",
+      "precio": 1000
+    },
+    {
+      "id": 15,
+      "nombre": "RTX 2060",
+      "precio": 1100
+    },
+    {
+      "id": 16,
+      "nombre": "B550 Asu",
+      "precio": 120
+    },
+    {
+      "nombre": "Ry 3700x ",
+      "precio": 350,
+      "id": 17
+    }
+  ]
+}
