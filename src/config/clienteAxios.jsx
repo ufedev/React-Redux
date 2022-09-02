@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const clienteAxios = axios.create({
-  baseURL: "http://localhost:3001",
+  baseURL: "https://my-json-server.typicode.com/ufedev/React-Redux",
 })
 
 export default clienteAxios
